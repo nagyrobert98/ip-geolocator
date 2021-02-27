@@ -8,10 +8,10 @@
 	<description>Java class library for obtaining geolocation information of an IP address.</description>
 	<developers>
 		<developer>
-			<id>jeszy</id>
-			<name>Péter Jeszenszky</name>
-			<email>jeszenszky.peter@inf.unideb.hu</email>
-			<organization>Faculty of Informatics, University of Debrecen</organization>
+			<id>nagyrobi</id>
+			<name>Róbert Nagy</name>
+			<email>nagyrobert136@gmail.com</email>
+			<organization>Student of University of Debrecen</organization>
 			<organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
 		</developer>
 	</developers>
