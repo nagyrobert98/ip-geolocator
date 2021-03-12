@@ -10,10 +10,4 @@
         <artifactId>maven-fluido-skin</artifactId>
         <version>1.9</version>
     </skin>
-    <custom>
-        <fluidoSkin>
-            <topBarEnabled>true</topBarEnabled>
-            <sideBarEnabled>false</sideBarEnabled>
-        </fluidoSkin>
-    </custom>
 </project>
